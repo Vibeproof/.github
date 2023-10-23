@@ -1,4 +1,6 @@
-# [VibeProof](https://dev.vibeproof.io)
+# VibeProof
+
+[https://vibeproof.io](https://vibeproof.io)
 
 **VibeProof** is a web3 event management app, tailored to create personalized experiences for your community.
 
