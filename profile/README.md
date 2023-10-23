@@ -1,4 +1,6 @@
-# [VibeProof](https://dev.vibeproof.io)
+# VibeProof
+
+[https://vibeproof.io](https://vibeproof.io)
 
 **VibeProof** is a web3 event management app, tailored to create personalized experiences for your community.
 
@@ -32,7 +34,7 @@
 
 Vibeproof offers efficient end-to-end encryption, ensuring that only the communication between the event owner and the event applicant is secure. To achieve this, users may be requested to sign messages with their crypto wallet (Metamask/Wallet Connect/etc).
 
-![crypto](./public/Crypto.png)
+![crypto](public/Crypto.png)
 
 ### Connect 
 
